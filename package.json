@@ -1,0 +1,30 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "chat com nodejs e socket.io",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsaacDSC/chat.git"
+  },
+  "keywords": [
+    "chat",
+    "nodejs",
+    "javaScript",
+    "socket.io",
+    "comunicação"
+  ],
+  "author": "IsaacDSC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IsaacDSC/chat/issues"
+  },
+  "homepage": "https://github.com/IsaacDSC/chat#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
